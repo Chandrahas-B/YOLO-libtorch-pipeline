@@ -5,7 +5,8 @@ The model was trained using the <a href="https://public.roboflow.com/object-dete
 <br/> <br/>
 To run the any of the following scripts, change the script name in the <i> CMakeLists.txt </i> file.
 
-![image](https://github.com/Chandrahas-B/YOLO-libtorch-pipeline/assets/84665480/23344455-e916-4aab-830f-6a0b6f3e7e0d)
+![image](https://github.com/Chandrahas-B/YOLO-libtorch-pipeline/assets/84665480/43d61a84-b58c-4d07-8f99-223d8fdad42d)
+
 
 <br/><br/>
 Commands to execute the program:
